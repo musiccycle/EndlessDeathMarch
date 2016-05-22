@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"main1","characterIndex":0,"characterName":"main1","classId":1,"equips":[5,22,2,10,0],"faceIndex":0,"faceName":"main1","traits":[{"code":62,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":50,"name":"酒居　猛史","nickname":"","note":"","profile":"技術力と行動力を兼ね備える優秀なエンジニアだが\n呑んだくれな上、職位が上の者にも容赦ない。"},
+{"id":2,"battlerName":"main2","characterIndex":0,"characterName":"main2","classId":2,"equips":[8,20,6,14,0],"faceIndex":0,"faceName":"main2","traits":[{"code":62,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":50,"name":"彩瀬　絵美","nickname":"","note":"","profile":"無類の猫好きデザイナー。赤毛の猫は飼ってない。\n腕は確かだが仕事より彼氏とのデートと猫カフェが大事。"},
+{"id":3,"battlerName":"main3","characterIndex":0,"characterName":"main3","classId":3,"equips":[2,18,2,10,4],"faceIndex":0,"faceName":"main3","traits":[{"code":62,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":50,"name":"聖橋　昌平","nickname":"","note":"","profile":"見た目は普通の青年だが、毎週末秋葉に通うオタク。\nアニメやアイドルだけでなく社内の噂も大好き。"},
+{"id":4,"battlerName":"main4","characterIndex":0,"characterName":"main4","classId":4,"equips":[2,24,6,14,4],"faceIndex":0,"faceName":"main4","traits":[{"code":62,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":50,"name":"高見　達代","nickname":"","note":"","profile":"学生時代は体育会系部活一筋で今はトライアスリート。\nトレーニングが大好き。"},
+{"id":5,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"テスト","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"名前入力","nickname":"","note":"","profile":""}
+]

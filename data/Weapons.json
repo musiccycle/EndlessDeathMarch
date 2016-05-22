@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":244,"name":"--- SmartPhone ---","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"型落ちなのでスペックが低い。\n攻撃力：27　技術力：30　正確性：24","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":244,"name":"型落ちスマホ","note":"","params":[0,0,27,0,30,0,0,24],"price":1500,"wtypeId":4},
+{"id":3,"animationId":6,"description":"現行の中堅グレードのスマホ。十分に実用的。\n攻撃力：45　技術力：50　正確性：40","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":244,"name":"中堅グレードスマホ","note":"","params":[0,0,45,0,50,0,0,40],"price":3000,"wtypeId":4},
+{"id":4,"animationId":6,"description":"高級でハイスペックなスマホ。\n攻撃力：63　技術力：70　正確性：56","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":244,"name":"ハイエンドスマホ","note":"","params":[0,0,63,0,70,0,0,56],"price":4500,"wtypeId":4},
+{"id":5,"animationId":1,"description":"型落ちなのでスペックが低い。\n攻撃力：30　技術力：24　正確性：27","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":245,"name":"型落ちノートPC","note":"","params":[0,0,30,0,24,0,0,27],"price":1700,"wtypeId":6},
+{"id":6,"animationId":1,"description":"オフィスワーク向けのコストパフォーマンス重視モデル。\n攻撃力：50　技術力：40　正確性：45","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":245,"name":"ビジネス向けノートPC","note":"","params":[0,0,50,0,40,0,0,45],"price":3400,"wtypeId":6},
+{"id":7,"animationId":1,"description":"勿論グラフィックカード付きの最高スペックモデル。\n攻撃力：70　技術力：56　正確性：63","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":245,"name":"ハイスペックノートPC","note":"","params":[0,0,70,0,56,0,0,63],"price":5100,"wtypeId":6},
+{"id":8,"animationId":11,"description":"そこそこ高いが書き心地がよい。\n攻撃力：24　技術力：27　正確性：30","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":246,"name":"ブランドボールペン","note":"","params":[0,0,24,0,27,0,0,30],"price":1300,"wtypeId":1},
+{"id":9,"animationId":11,"description":"もの凄く高価なボールペン。\n攻撃力：40　技術力：45　正確性：50","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":246,"name":"高級ボールペン","note":"","params":[0,0,40,0,45,0,0,50],"price":2600,"wtypeId":1},
+{"id":10,"animationId":11,"description":"万年筆はボールペンとは違うか着心地があります。\n攻撃力：56　技術力：63　正確性：70","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":246,"name":"高級万年筆","note":"","params":[0,0,56,0,63,0,0,70],"price":3900,"wtypeId":1},
+{"id":11,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":12,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":13,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":14,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":15,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":16,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":17,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":18,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":19,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":20,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
